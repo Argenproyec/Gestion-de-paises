@@ -116,17 +116,17 @@ El archivo `paises.csv` incluye **44 países** distribuidos entre América, Euro
 
 ---
 
-## Integrantes
+## Integrante
 
-| Nombre | Legajo |
+| Nombre | Matricula |
 |--------|--------|
-| [Nombre del integrante 1] | [Legajo] |
-| [Nombre del integrante 2] | [Legajo] |
+| Troncoso Leonardo Gabriel | 103359 |
+
 
 ---
 
 ## Links
 
-- **Repositorio GitHub:** [URL del repositorio]
-- **Video demostrativo:** [URL del video]
-- **Documentación PDF:** [URL del PDF o archivo en la raíz del repositorio]
+- **Repositorio GitHub:** https://github.com/Argenproyec/Gestion-de-paises.git
+- **Video demostrativo:** 
+- **Documentación PDF:** https://github.com/Argenproyec/Gestion-de-paises.git
